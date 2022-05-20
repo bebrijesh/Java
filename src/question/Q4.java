@@ -1,3 +1,5 @@
+package question;
+
 import java.util.Scanner;
 
 // 4. Take in two numbers and an operator (+, -, *, /) and calculate the value.(Use if conditions)

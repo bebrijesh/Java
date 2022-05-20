@@ -1,3 +1,5 @@
+package question;
+
 import java.util.Scanner;
 
 // 6. Input currency in rupees and output in USD.
